@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/jordan-stewart-006379114/">Jordan Stewart</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/jordan-stewart-006379114/">Jordan Stewart</a>'s IT & Cybersecurity Project Portfolio 
 
 I’m passionate about cybersecurity and enjoy solving complex challenges through hands-on projects. From vulnerability management to threat detection, these initiatives reflect my commitment to enhancing security operations and staying ahead in an evolving landscape. Feel free to explore my work!
 
