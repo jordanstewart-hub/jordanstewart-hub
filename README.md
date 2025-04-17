@@ -18,7 +18,6 @@ I’m passionate about cybersecurity and enjoy solving complex challenges throug
 
 
 [<img align="left" alt="__https://www.linkedin.com/in/jordan-stewart-006379114/_________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
