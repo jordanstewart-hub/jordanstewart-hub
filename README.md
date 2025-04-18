@@ -12,7 +12,7 @@ I’m passionate about cybersecurity and enjoy solving complex challenges throug
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jordanstewart-hub/threat-hunting-scenario-TOR))**
 
-- ## 🐍 Python Projects
+ ## 🐍 Python Projects
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jordanstewart-hub/threat-hunting-scenario-TOR))**
 
 <hr/>
