@@ -6,7 +6,7 @@ I’m passionate about cybersecurity and enjoy solving complex challenges throug
 ## ❗ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/jordanstewart-hub/vulnerability-management)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/jordanstewart-hub/Programmatic-Vulnerability-Remediations-)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/jordanstewart-hub/jordanstewart-hub/tree/main/STIGS)**
 
 ## 🚨 Threat Hunting and Security Operations
 
