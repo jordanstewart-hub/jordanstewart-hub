@@ -10,8 +10,8 @@ I’m passionate about cybersecurity and enjoy solving complex challenges throug
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jordanstewart-hub/threat-hunting-scenario-TOR))**
-
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jordanstewart-hub/threat-hunting-scenario-TOR))** 
+- **[Threat Hunting Scenario 2 (Unauthorized RDP Access)](https://github.com/jordanstewart-hub/Unauthorized-RDP-Access)**
  ## 🐍 Python Projects
 - **[Hash Checker](https://github.com/jordanstewart-hub/Hash-Checker)**
 
