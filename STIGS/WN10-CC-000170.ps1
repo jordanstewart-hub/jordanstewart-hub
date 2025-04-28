@@ -16,7 +16,7 @@ PS C:\Users\Juser1> <#
 .TESTED ON
     Date(s) Tested  : 
     Tested By       : 
-    Systems Tested  : Windows 10 Pro/Enterprise (non-LTSC)
+    Systems Tested  : 
     PowerShell Ver. : 5.1+
 
 .USAGE
