@@ -16,8 +16,8 @@ PS C:\Users\Juser1> <#
 .TESTED ON
     Date(s) Tested  : 
     Tested By       : 
-    Systems Tested  : Windows 10 Pro/Enterprise (21H2+)
-    PowerShell Ver. : 5.1+
+    Systems Tested  : 
+    PowerShell Ver. : 
 
 .USAGE
     Run this script in an elevated PowerShell session.
