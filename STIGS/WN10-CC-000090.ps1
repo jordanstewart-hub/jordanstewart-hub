@@ -1,6 +1,6 @@
 PS C:\Users\Juser1> <#
 .SYNOPSIS
-    This PowerShell script configures the Group Policy behavior to allow policy update notifications to the user in compliance with STIG ID WN10-CC-000090.
+    This PowerShell script configures the Group Policy behavior to allow policy update notifications to the user.
 
 .NOTES
     Author          : Jordan Stewart
