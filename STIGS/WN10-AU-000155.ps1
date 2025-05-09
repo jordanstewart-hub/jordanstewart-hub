@@ -1,6 +1,6 @@
 PS C:\Users\Juser1> <#
 .SYNOPSIS
-    This PowerShell script configures Windows Audit Policy to enable failure auditing for System Integrity as required by STIG WN10-AU-000155.
+    This PowerShell script configures Windows Audit Policy to enable failure auditing for System Integrity.
 
 .NOTES
     Author          : Jordan Stewart
