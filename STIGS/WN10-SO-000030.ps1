@@ -1,6 +1,6 @@
 PS C:\Users\Juser1> <#
 .SYNOPSIS
-    This PowerShell script configures Windows Security Option to enforce subcategory audit settings, complying with STIG WN10-SO-000030.
+    This PowerShell script configures Windows Security Option to enforce subcategory audit settings.
 
 .NOTES
     Author          : Jordan Stewart
