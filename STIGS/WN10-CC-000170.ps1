@@ -1,6 +1,6 @@
 PS C:\Users\Juser1> <#
 .SYNOPSIS
-    This PowerShell script ensures that Microsoft account optional sign-in is disabled on Windows 10, in compliance with STIG ID WN10-CC-000170.
+    This PowerShell script ensures that Microsoft account optional sign-in is disabled on Windows 10
 
 .NOTES
     Author          : Jordan Stewart
