@@ -14,6 +14,8 @@ I’m passionate about cybersecurity and enjoy solving complex challenges throug
 - **[Threat Hunting Scenario 2 (Suspicious Powershell Activity)](https://github.com/jordanstewart-hub/Suspicious-Powershell-Usage/blob/main/Threat_Report.md)**
  ## 🐍 Python Projects
 - **[Hash Checker](https://github.com/jordanstewart-hub/Hash-Checker)**
+- **[Log Inspector](https://github.com/jordanstewart-hub/LogInspector/blob/main/README.md)**
+
 
 <hr/>
 
