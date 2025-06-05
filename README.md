@@ -12,7 +12,7 @@ I’m passionate about cybersecurity and enjoy solving complex challenges throug
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jordanstewart-hub/threat-hunting-scenario-TOR))** 
 - **[Threat Hunting Scenario 2 (Suspicious Powershell Activity)](https://github.com/jordanstewart-hub/Suspicious-Powershell-Usage/blob/main/Threat_Report.md)**
-## 🖥️☁️AWS/Cloud Curations 
+## ☁️AWS/Cloud Curations 
 - **[Cloud Curations](https://github.com/jordanstewart-hub/AWS)** 
  ## 🐍 Python Projects
 - **[Hash Checker](https://github.com/jordanstewart-hub/Hash-Checker)**
