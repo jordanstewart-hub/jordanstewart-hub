@@ -18,7 +18,8 @@ I’m passionate about cybersecurity and enjoy solving complex challenges throug
 ## ☁️AWS/Cloud Curations 
 - **[Cloud Curations](https://github.com/jordanstewart-hub/AWS)**
 - **[IAM AWS Cloud Security Project](https://github.com/jordanstewart-hub/AWS/blob/main/IAM-AWS-Cloud-Security.md)**
-- **[AWS Cloud Security Monitoring Project](https://github.com/jordanstewart-hub/AWS/blob/main/AWS-Security-Monitoring.md)** 
+- **[AWS Cloud Security Monitoring Project](https://github.com/jordanstewart-hub/AWS/blob/main/AWS-Security-Monitoring.md)**
+-  **[Encrypt Data with AWS KMS] 
  ## 🐍 Python 
 - **[Hash Checker](https://github.com/jordanstewart-hub/Hash-Checker)**
 - **[Log Inspector](https://github.com/jordanstewart-hub/LogInspector/blob/main/README.md)**
